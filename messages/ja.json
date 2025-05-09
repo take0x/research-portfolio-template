@@ -1,0 +1,45 @@
+{
+  "Metadata": {
+    "title": "研究者ポートフォリオ",
+    "description": "研究成果と出版物を紹介する個人ウェブサイト"
+  },
+  "Navigation": {
+    "home": "ホーム",
+    "research": "研究",
+    "publications": "出版物",
+    "contact": "連絡先"
+  },
+  "Home": {
+    "greeting": "こんにちは、私は",
+    "profession": "研究者＆開発者",
+    "introduction": "私は[あなたの研究分野]に情熱を持って取り組んでいる研究者です。このウェブサイトでは私の研究成果や出版物を紹介しています。",
+    "researchButton": "研究内容を見る",
+    "contactButton": "お問い合わせ"
+  },
+  "Research": {
+    "title": "研究分野",
+    "interest1": "研究分野 1",
+    "interest1Description": "一つ目の研究分野の説明。",
+    "interest2": "研究分野 2",
+    "interest2Description": "二つ目の研究分野の説明。",
+    "interest3": "研究分野 3",
+    "interest3Description": "三つ目の研究分野の説明。"
+  },
+  "Publications": {
+    "title": "出版物",
+    "journal": "学術論文",
+    "conference": "会議論文",
+    "book": "書籍の章",
+    "other": "その他の出版物"
+  },
+  "Contact": {
+    "title": "連絡先",
+    "name": "名前",
+    "email": "メールアドレス",
+    "message": "メッセージ",
+    "send": "送信"
+  },
+  "Footer": {
+    "copyright": "© 2024 すべての権利を留保します。"
+  }
+} 

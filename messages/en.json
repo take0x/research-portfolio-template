@@ -1,0 +1,45 @@
+{
+  "Metadata": {
+    "title": "Researcher Portfolio",
+    "description": "Personal website showcasing research work and publications"
+  },
+  "Navigation": {
+    "home": "Home",
+    "research": "Research",
+    "publications": "Publications",
+    "contact": "Contact"
+  },
+  "Home": {
+    "greeting": "Hello, I'm",
+    "profession": "Researcher & Developer",
+    "introduction": "I'm a passionate researcher focused on [your research field]. This website showcases my work and publications.",
+    "researchButton": "View My Research",
+    "contactButton": "Contact Me"
+  },
+  "Research": {
+    "title": "Research Areas",
+    "interest1": "Research Interest 1",
+    "interest1Description": "Description of your first research interest area.",
+    "interest2": "Research Interest 2",
+    "interest2Description": "Description of your second research interest area.",
+    "interest3": "Research Interest 3",
+    "interest3Description": "Description of your third research interest area."
+  },
+  "Publications": {
+    "title": "Publications",
+    "journal": "Journal Articles",
+    "conference": "Conference Papers",
+    "book": "Book Chapters",
+    "other": "Other Publications"
+  },
+  "Contact": {
+    "title": "Contact",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "send": "Send Message"
+  },
+  "Footer": {
+    "copyright": "© 2024 All rights reserved."
+  }
+} 
